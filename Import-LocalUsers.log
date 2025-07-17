@@ -1,0 +1,48 @@
+2025-07-17 03:31:58.024 - DÃ©but du script d'importation des utilisateurs
+2025-07-17 03:31:58.260 - Traitement de l'utilisateur : Alice Robert (arobe1)
+2025-07-17 03:31:58.272 - CrÃ©ation de l'utilisateur arobe1
+2025-07-17 03:31:58.959 - Erreur lors de la crÃ©ation de arobe1 : Une tentative d’ajout d’un objet dans l’annuaire avec un nom déjà utilisé s’est produite
+2025-07-17 03:31:58.971 - Traitement de l'utilisateur : Bob Graton (bgrat1)
+2025-07-17 03:31:58.975 - CrÃ©ation de l'utilisateur bgrat1
+2025-07-17 03:31:59.031 - Erreur lors de la crÃ©ation de bgrat1 : Une tentative d’ajout d’un objet dans l’annuaire avec un nom déjà utilisé s’est produite
+2025-07-17 03:31:59.105 - Traitement de l'utilisateur : Caroline Tremblay (ctrem1)
+2025-07-17 03:31:59.161 - CrÃ©ation de l'utilisateur ctrem1
+2025-07-17 03:31:59.220 - Erreur lors de la crÃ©ation de ctrem1 : Une tentative d’ajout d’un objet dans l’annuaire avec un nom déjà utilisé s’est produite
+2025-07-17 03:31:59.239 - Traitement de l'utilisateur : Claude Gagnon (cgagn1)
+2025-07-17 03:31:59.276 - CrÃ©ation de l'utilisateur cgagn1
+2025-07-17 03:31:59.499 - Erreur lors de la crÃ©ation de cgagn1 : Une tentative d’ajout d’un objet dans l’annuaire avec un nom déjà utilisé s’est produite
+2025-07-17 03:31:59.510 - Traitement de l'utilisateur : Denis Denis (ddeni1)
+2025-07-17 03:31:59.516 - CrÃ©ation de l'utilisateur ddeni1
+2025-07-17 03:31:59.582 - Erreur lors de la crÃ©ation de ddeni1 : Une tentative d’ajout d’un objet dans l’annuaire avec un nom déjà utilisé s’est produite
+2025-07-17 03:31:59.620 - Fin du script d'importation
+2025-07-17 03:31:59.630 - Nombre total d'utilisateurs dans le fichier : 5
+2025-07-17 03:31:59.633 - Nombre d'utilisateurs crÃ©Ã©s avec succÃ¨s : 0
+2025-07-17 03:31:59.641 - Nombre d'Ã©checs : 5
+2025-07-17 03:37:19.282 - DÃ©but du script d'importation des utilisateurs
+2025-07-17 03:37:19.294 - Traitement de l'utilisateur : Alice Robert (arobe)
+2025-07-17 03:37:19.298 - CrÃ©ation de l'utilisateur arobe
+2025-07-17 03:37:19.605 - Utilisateur arobe crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:19.605 - Traitement de l'utilisateur : Bob Graton (bgrat)
+2025-07-17 03:37:19.617 - CrÃ©ation de l'utilisateur bgrat
+2025-07-17 03:37:19.728 - Utilisateur bgrat crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:19.736 - Traitement de l'utilisateur : Caroline Tremblay (ctrem)
+2025-07-17 03:37:19.770 - CrÃ©ation de l'utilisateur ctrem
+2025-07-17 03:37:19.929 - Utilisateur ctrem crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:20.372 - ctrem ajoutÃ© au groupe 'Admins du domaine'
+2025-07-17 03:37:20.387 - Traitement de l'utilisateur : Claude Gagnon (cgagn)
+2025-07-17 03:37:20.410 - CrÃ©ation de l'utilisateur cgagn
+2025-07-17 03:37:20.528 - Utilisateur cgagn crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:20.541 - Traitement de l'utilisateur : Denis Denis (ddeni)
+2025-07-17 03:37:20.548 - CrÃ©ation de l'utilisateur ddeni
+2025-07-17 03:37:20.632 - Utilisateur ddeni crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:20.657 - Traitement de l'utilisateur : Claude Tremblay (ctrem1)
+2025-07-17 03:37:20.664 - CrÃ©ation de l'utilisateur ctrem1
+2025-07-17 03:37:20.825 - Utilisateur ctrem1 crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:20.840 - Traitement de l'utilisateur : Cyrille Tremblay (ctrem2)
+2025-07-17 03:37:20.900 - CrÃ©ation de l'utilisateur ctrem2
+2025-07-17 03:37:21.012 - Utilisateur ctrem2 crÃ©Ã© avec succÃ¨s
+2025-07-17 03:37:21.140 - ctrem2 ajoutÃ© au groupe 'Admins du domaine'
+2025-07-17 03:37:21.144 - Fin du script d'importation
+2025-07-17 03:37:21.147 - Nombre total d'utilisateurs dans le fichier : 7
+2025-07-17 03:37:21.151 - Nombre d'utilisateurs crÃ©Ã©s avec succÃ¨s : 7
+2025-07-17 03:37:21.200 - Nombre d'Ã©checs : 0
